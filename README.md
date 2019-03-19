@@ -1,2 +1,2 @@
 # PracticalPy
-A collection of simple &amp; practical Python programs I worked within past. 
+A collection of simple &amp; practical Python programs I worked within the past. 
